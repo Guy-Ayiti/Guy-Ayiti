@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Mathematician, Statistician and Data Scientist enthusiast.</p>
+<p align="left"> <b>I'm a Mathematician, Statistician and Data Scientist enthusiast.</b> </p>
 
 ###
 
