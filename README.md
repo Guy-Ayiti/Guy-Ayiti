@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left"> <b>I'm a Mathematician, Statistician and Data Scientist enthusiast.</b> </p>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left"> <b> ☘️ I'm a Mathematician, Statistician and Data Scientist enthusiast 🗝️.</b> </p>
 
 ###
 
@@ -20,16 +20,16 @@
   <br>
   <br>🎯 Goals: Get proficient at DevOps, CI/CD, Apache Spark, Docker, Azure, Google Cloud Platform (GCP).
   <br>
-  <br>🎲 Fun fact: I enjoy Mathematics, Problem Solving with Geometry, Languages and Programming Challenges in Python.</p>
+  <br>📌 Fun fact: I enjoy Mathematics, Problem Solving with Geometry, Languages and Programming Challenges in Python.</p>
 
 ###
 <h2 align="left">Contact Info:</h2>
 <p> 
    <ul>
-  <li>Email 📧: guy3hil@hotmail.com</li>
-  <li>Phone 📱: +52 55 4594 1234</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/joseph-guy-evans-jr-hilaire-445a03140/" target="_blank">
-                   <img src="https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/LinkedIn-Logo.jpg" height="40" style="vertical-align:bottom" />
+  <li>Email ✒️ : guy3hil@hotmail.com</li>
+  <li>Phone 📞 : +52 55 4594 1234</li>
+  <li>LinkedIn : <a href="https://www.linkedin.com/in/joseph-guy-evans-jr-hilaire-445a03140/" target="_blank">
+                   <img src="https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/LinkedIn-Logo.jpg" height="40" />
                 </a> 
   </li>
 </ul> 
