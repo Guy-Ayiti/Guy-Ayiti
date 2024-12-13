@@ -21,7 +21,19 @@
   <br>🎯 Goals: Get proficient at DevOps, CI/CD, Apache Spark, Docker, Azure, Google Cloud Platform (GCP).
   <br>
   <br>🎲 Fun fact: I enjoy Mathematics, Problem Solving with Geometry, Languages and Programming Challenges in Python.</p>
-  
+
+###
+<h2 align="left">Contact Info:</h2>
+<p> 
+   <ul>
+  <li>Email 📧: guy3hil@hotmail.com</li>
+  <li>Phone 📱: +52 55 4594 1234</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/joseph-guy-evans-jr-hilaire-445a03140/">
+                   <img src="">
+                </a> 
+  </li>
+</ul> 
+</p>
 
 ###
 
