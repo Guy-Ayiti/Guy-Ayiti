@@ -29,7 +29,7 @@
   <li>Email 📧: guy3hil@hotmail.com</li>
   <li>Phone 📱: +52 55 4594 1234</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/joseph-guy-evans-jr-hilaire-445a03140/">
-                   <img src="">
+                   <img src="https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/LinkedIn-Logo.jpg" height="40">
                 </a> 
   </li>
 </ul> 
