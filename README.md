@@ -2,7 +2,7 @@
 
 ###
 
-![Design  and Development](https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/Banner.png)
+![Design  and Development](https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/github-banner-image.png)
 
 ###
 
