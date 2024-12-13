@@ -2,6 +2,10 @@
 
 ###
 
+![Design  and Development](https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/Banner.png)
+
+###
+
 <p align="left">I'm a Mathematician, Statistician and Data Scientist enthusiast.</p>
 
 ###
