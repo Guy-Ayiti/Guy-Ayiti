@@ -18,6 +18,8 @@
   <br>
   <br>📚 I'm also currently learning Cloud Technologies such as Azure and Google Cloud Platform to better enhance my Data skills in the cloud and be more valuable to companies.
   <br>
+  <br>📁 Projects: I have worked in projects involving Machine Learning Algorithms, Forecasting Techniques, Programming Challenges.✅ 
+  <br>
   <br>🎯 Goals: Get proficient at DevOps, CI/CD, Apache Spark, Docker, Azure, Google Cloud Platform (GCP).
   <br>
   <br>📌 Fun fact: I enjoy Mathematics, Problem Solving with Geometry, Languages and Programming Challenges in Python.</p>
@@ -29,7 +31,7 @@
   <li>Email ✒️ : guy3hil@hotmail.com</li>
   <li>Phone 📞 : +52 55 4594 1234</li>
   <li>LinkedIn : <a href="https://www.linkedin.com/in/joseph-guy-evans-jr-hilaire-445a03140/" target="_blank">
-                   <img src="https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/LinkedIn-Logo.jpg" height="40" />
+                   <img src="https://github.com/Guy-Ayiti/Guy-Ayiti/blob/main/LinkedIn-Logo.jpg" height="40" >
                 </a> 
   </li>
 </ul> 
